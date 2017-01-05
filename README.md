@@ -1,3 +1,1 @@
-# test1
-just for learning
-add another file 'Train.lua'
+An neural network model for analysing herd effect.
